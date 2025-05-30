@@ -215,3 +215,7 @@ Nos gustó la flexibilidad que ofrece MongoDB. Poder tener campos dinámicos, li
 Nos preguntamos cuándo es mejor incrustar la información y cuándo referenciar. También nos generó dudas cómo actualizar los datos si hay cambios (por ejemplo, si sube el precio de una pizza) y cómo evitar inconsistencias cuando los datos se repiten en varios documentos.
 
 ---
+## Integrantes 
+- Jose Julian Ortega Navarro
+- Rafael Eduardo Osorio Barajas
+- Victor Alejandro Pabon
